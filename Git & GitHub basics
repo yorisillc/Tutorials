@@ -1,0 +1,17 @@
+Checking Your Settings
+$ git config --list
+$ git config user.name
+Cloning an Existing Repository
+$ git clone "url"
+$ git clone "url"  (new folder)
+$ git status
+$ git add file.ext
+$ git commit -m " Your comment here"
+$ git push
+ 
+ 
+ after a change on a file
+ 
+ $ git pull
+ $ git status
+ $ git push
